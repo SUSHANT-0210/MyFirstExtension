@@ -14,7 +14,15 @@ Our extension boasts an extensive collection of side-splitting jokes that cover 
 Humor has a way of bringing people together. Help spread the laughter by sharing LocalLaughs with your friends, family, and neighbors. Let's collectively enjoy the funny side of our neighborhood and create a shared experience that will uplift spirits and create memorable moments.
 
 
-## Run Locally
+
+# Running extention locally
+
+1. Go to chrome://extentions
+2. Toggle developer mode on top right in order to enable it
+3. Click Load unpacked and choose the build folder in root of this project
+4. Your extention is loaded sucessfully
+5. Click on the extention and you can see the joke.
+
 
 Clone the project
 
